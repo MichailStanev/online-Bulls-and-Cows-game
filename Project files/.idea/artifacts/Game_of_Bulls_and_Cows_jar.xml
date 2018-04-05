@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Game of Bulls and Cows:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_of_Bulls_and_Cows_jar</output-path>
+    <root id="archive" name="Game of Bulls and Cows.jar">
+      <element id="module-output" name="Game of Bulls and Cows" />
+    </root>
+  </artifact>
+</component>
